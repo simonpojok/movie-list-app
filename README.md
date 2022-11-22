@@ -94,3 +94,4 @@ Once you think you've completed the task, please send an email to niccolo.passol
 Use the same email account in case you have questions.
 
 Enjoy the ride!
+![Screenshot_1669153523](https://user-images.githubusercontent.com/48127994/203427536-58b4124a-7270-4689-828d-090d9b05f1e3.png)
