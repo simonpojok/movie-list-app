@@ -1,0 +1,26 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "EEA Tech Interview"
+include ':app'
+include ':mobile-common:common-domain'
+include ':mobile-common:common-datasource'
+include ':mobile-common:common-ui'
+include ':mobile-common:common-presentation'
+include ':mobile-common:common-remote-datasource'
+include ':movies:movies-domain'
+include ':movies:movies-presentation'
+include ':movies:movies-ui'
+include ':movies:movies-datasource'
+include ':movies:movies-remote-datasource'

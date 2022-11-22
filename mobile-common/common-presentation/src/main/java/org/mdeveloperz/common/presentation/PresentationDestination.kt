@@ -1,0 +1,3 @@
+package org.mdeveloperz.common.presentation
+
+interface PresentationDestination
